@@ -1,0 +1,3 @@
+*/1 * * * * /bin/bash /path/to/collect_usages.sh
+
+*/1 * * * * slepp 20 && /bin/bash /path/to/calculate_avgs.sh
